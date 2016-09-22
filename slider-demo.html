@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Slider Demo</title>
+    <link rel="stylesheet" href="css/slider.css" type="text/css" media="all" />
+    <script src="js/jq/jQuery.js"></script>
+    <script src="js/slider.js"></script>
+    <script>
+        $(function()
+        {
+            SliderMaker($('#container1'));
+            // or like this:
+            SliderMaker($('#container2'), 10, 400);
+        });
+    </script>
+    <style type="text/css" media="screen">
+        #container2 {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container1"></div>
+    <div id="container2"></div>
+</body>
+
+</html>
