@@ -31,3 +31,4 @@ Just like what in `slider-demo.html`:
 
 You can use this demo for any purpose without any limit.
 
+This is *only* a demo, so be careful.
