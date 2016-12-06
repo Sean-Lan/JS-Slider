@@ -28,5 +28,4 @@ Just like what in `slider-demo.html`:
     });
 
 # License
-
-You can use this demo for any purpose.
+There is no license and you can use this demo for any purpose.
