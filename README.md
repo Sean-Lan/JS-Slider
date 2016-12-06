@@ -30,3 +30,4 @@ Just like what in `slider-demo.html`:
 # License
 
 You can use this demo for any purpose without any limit.
+
