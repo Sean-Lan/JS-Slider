@@ -35,4 +35,4 @@ Have fun!
 
 # one more thing
 
-This part is not for testing github pull request since I don't want to bother creating a new repository.
+This part is just for testing github pull request.
