@@ -33,6 +33,6 @@ You can use this demo for any purpose without any limit.
 
 Have fun!
 
-# one more thing
+# Note
 
 This part is just for testing github pull request.
