@@ -35,4 +35,4 @@ Have fun!
 
 # Note
 
-This repo may be used for testing github pull request.
+This part is just for testing github pull request.
