@@ -32,3 +32,7 @@ Just like what in `slider-demo.html`:
 You can use this demo for any purpose without any limit.
 
 Have fun!
+
+# Note
+
+This repo may be used for testing github pull request.
